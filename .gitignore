@@ -5,4 +5,4 @@
 Debug*.exe
 Debug*/Debug*.exe
 Debug*/Debug*\ Libs
-
+/Data
