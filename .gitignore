@@ -6,3 +6,6 @@ Debug*.exe
 Debug*/Debug*.exe
 Debug*/Debug*\ Libs
 /Data
+Project/DerivedData/.DS_Store
+Project/.DS_Store
+userPreferences.Reinhard Peschorn/.DS_Store
